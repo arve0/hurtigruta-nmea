@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1336511152 source:/home/arve/Dokumenter/hurtigruta-nmea/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1336501393 source:/home/arve/Dokumenter/hurtigruta-nmea/string_array.cpp
+	<iostream>
+	<string>
+
+1336511471 source:/home/arve/Dokumenter/hurtigruta-nmea/avr.cpp
+
+1336511308 source:/home/arve/Dokumenter/hurtigruta-nmea/pc.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
